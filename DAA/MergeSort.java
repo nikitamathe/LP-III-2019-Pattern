@@ -1,4 +1,4 @@
-// Merge Sort
+// Merge Sort problem 
 /* Java program for Merge Sort */
 class MergeSort
 {
