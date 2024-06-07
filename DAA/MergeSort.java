@@ -1,5 +1,4 @@
-// link https://www.geeksforgeeks.org/merge-sort/
-
+// Merge Sort
 /* Java program for Merge Sort */
 class MergeSort
 {
@@ -97,4 +96,4 @@ class MergeSort
 		printArray(arr);
 	}
 }
-/* This code is contributed by Rajat Mishra */
+
